@@ -1,0 +1,422 @@
+[
+  
+  {
+   
+    "english":" I",
+    "banan": "আই",
+    "bangla":" আমি"
+    
+  },{
+   
+    "english":" we",
+    "banan": "উই",
+    "bangla":" আমরা"
+    
+  },{
+   
+    "english":" he",
+    "banan": "হি",
+    "bangla":" সে (ছেলে)"
+    
+  },{
+   
+    "english":" she",
+    "banan": "সী",
+    "bangla":" সে (মেয়ে)"
+    
+  },{
+   
+    "english":" They",
+    "banan": "দে",
+    "bangla":" তারা"
+    
+  },{
+   
+    "english":" You",
+    "banan": "ইউ",
+    "bangla":" তুমি"
+    
+  },{
+   
+    "english":" you",
+    "banan": "ইউ",
+    "bangla":" তোমরা"
+    
+  },{
+   
+    "english":" it",
+    "banan": "ইট",
+    "bangla":" এটা"
+    
+  },{
+   
+    "english":" go",
+    "banan": "গো",
+    "bangla":" যাওয়া "
+    
+  },{
+   
+    "english":" come",
+    "banan": "কাম",
+    "bangla":" আসা"
+    
+  },{
+   
+    "english":" sleep",
+    "banan": "স্লীপ",
+    "bangla":" ঘুমানো "
+    
+  },{
+   
+    "english":" eat",
+    "banan": "ইট",
+    "bangla":" খাওয়া"
+    
+  },{
+   
+    "english":" drink",
+    "banan": "ড্রিংক ",
+    "bangla":" পান করা"
+    
+  },{
+   
+    "english":" take ",
+    "banan": "টেক",
+    "bangla":" নেয়া"
+    
+  },{
+   
+    "english":" say",
+    "banan": "ছে",
+    "bangla":" বলা"
+    
+  },{
+   
+    "english":" get",
+    "banan": "গেট",
+    "bangla":" পাওয়া"
+    
+  },{
+   
+    "english":" make",
+    "banan": "মেক",
+    "bangla":" তৈরি করা"
+    
+  },{
+   
+    "english":" know ",
+    "banan": "নো",
+    "bangla":" জানা"
+    
+  },{
+   
+    "english":" give ",
+    "banan": " গীভ",
+    "bangla":" দেয়া"
+    
+  },{
+   
+    "english":" help",
+    "banan": "হেল্প",
+    "bangla":" সাহায্য করা"
+    
+  },{
+   
+    "english":" play",
+    "banan": "প্লে",
+    "bangla":" খেলা"
+    
+  },{
+   
+    "english":" use",
+    "banan": "ইউজ",
+    "bangla":" ব্যবহার করা"
+    
+  },{
+   
+    "english":" eat",
+    "banan": "ইট",
+    "bangla":" খাওয়া"
+    
+  },{
+   
+    "english":" drink  ",
+    "banan": "ড্রিংক",
+    "bangla":" পান করা"
+    
+  },
+  {
+   
+    "english":" I go.",
+    "banan": "আই গো",
+    "bangla":" আমি যাই।"
+    
+  },{
+   
+    "english":" I don’t go",
+    "banan": "আই ডন্ট গো",
+    "bangla":" আমি যাইনা। "
+    
+  },{
+   
+    "english":" Do i go? ",
+    "banan": "ডু আই গো ",
+    "bangla":" আমি কি যাই? "
+    
+  },{
+   
+    "english":" I come.",
+    "banan": "আই কাম",
+    "bangla":" আমি আসি।"
+    
+  },{
+   
+    "english":" I don’t come.",
+    "banan": "আই ডন্ট কাম ",
+    "bangla":" আমি আসি না।"
+    
+  },{
+   
+    "english":" Do I come?",
+    "banan": "ডু আই কাম",
+    "bangla":" আমি কি আসি?"
+    
+  },{
+   
+    "english":" I sleep. ",
+    "banan": "আই স্লীপ",
+    "bangla":" আমি ঘুমাই।"
+    
+  },{
+   
+    "english":" I don’t sleep ",
+    "banan": "আই ডন্ট স্লীপ",
+    "bangla":" আমি ঘুমাইনা।"
+    
+  },{
+   
+    "english":" Do i sleep? ",
+    "banan": "ডু আই স্লীপ",
+    "bangla":" আমি কি ঘুমাই? "
+    
+  },{
+   
+    "english":" I eat.",
+    "banan": "আই ইট",
+    "bangla":" আমি খাই। "
+    
+  },{
+   
+    "english":" I don’t eat",
+    "banan": "আই ডন্ট ইট",
+    "bangla":" আমি খাইনা"
+    
+  },{
+   
+    "english":" Do i eat? ",
+    "banan": "ডু আই ইট? ",
+    "bangla":" আমি কি খাই? "
+    
+  },{
+   
+    "english":" I drink",
+    "banan": "আই ড্রিঙ্ক ",
+    "bangla":" আমি পান করি"
+    
+  },{
+   
+    "english":" I don’t drink",
+    "banan": "আই ডন্ট ড্রিংক ",
+    "bangla":" আমি পান করিনা"
+    
+  },{
+   
+    "english":" Do i drink?",
+    "banan": "ডু আই ড্রিংক",
+    "bangla":" আমি কি পান করি?"
+    
+  },{
+   
+    "english":" I take",
+    "banan": "আই টেক",
+    "bangla":" আমি নেই"
+    
+  },{
+   
+    "english":" I don't take",
+    "banan": "আই ডন্ট টেক",
+    "bangla":" আমি নেই না "
+    
+  },{
+   
+    "english":" Do i take?",
+    "banan": "ডু আই টেক?",
+    "bangla":" আমি কি নেই?"
+    
+  },
+  {
+   
+    "english":" I say",
+    "banan": "আই সে",
+    "bangla":" আমি বলি"
+    
+  },{
+   
+    "english":" I don’t say",
+    "banan": "আই ডন্ট ছে",
+    "bangla":" আমি বলি না"
+    
+  },{
+   
+    "english":" Do i say? ",
+    "banan": "ডু আই ছি? ",
+    "bangla":" আমি কি বলি? "
+    
+  },{
+   
+    "english":" We go",
+    "banan": "উই গো",
+    "bangla":" আমরা যাই"
+    
+  },{
+   
+    "english":" we don’t go",
+    "banan": "উই ডোন্ট গো",
+    "bangla":" আমরা যাই না"
+    
+  },{
+   
+    "english":" do we go? ",
+    "banan": "ডু উই গো ",
+    "bangla":" আমরা কি যাই??"
+    
+  },{
+   
+    "english":" we come ",
+    "banan": "উই কাম",
+    "bangla":" আমরা আসি"
+    
+  },{
+   
+    "english":" we don’t come ",
+    "banan": "উই ডন্ট কাম",
+    "bangla":" আমরা আসি না"
+    
+  },{
+   
+    "english":" Do we come?",
+    "banan": "ডু উই কাম ",
+    "bangla":" আমরা কি আসি? "
+    
+  },{
+   
+    "english":" we eat",
+    "banan": "উই ইট",
+    "bangla":" আমরা খাই"
+    
+  },{
+   
+    "english":" we don’t eat",
+    "banan": "উই ডন্ট ইট",
+    "bangla":" আমরা খাইনা"
+    
+  },{
+   
+    "english":" Do we eat ",
+    "banan": "ডু উই ইট ",
+    "bangla":" আমরা কি খাই??"
+    
+  },{
+   
+    "english":" We drink",
+    "banan": "উই ড্রিংক",
+    "bangla":" আমরা পান করি"
+    
+  },{
+   
+    "english":" we don’t drink ",
+    "banan": "উই ডন্ট ড্রিংক",
+    "bangla":" আমরা পান করিনা"
+    
+  },{
+   
+    "english":" Do we drink?",
+    "banan": "ডু উই ড্রিংক",
+    "bangla":" আমরা কি পান করি? "
+    
+  },{
+   
+    "english":" He goes",
+    "banan": "হি গোস",
+    "bangla":" সে যায়"
+    
+  },{
+   
+    "english":" He doesn’t go",
+    "banan": "হি ডাজনট গো",
+    "bangla":" সে যায়না"
+    
+  },{
+   
+    "english":" Does he go? ",
+    "banan": "ডাজ হি গো? ",
+    "bangla":" সে কি যায়?"
+    
+  },{
+   
+    "english":" He comes",
+    "banan": "হি কামস",
+    "bangla":" সে আসে"
+    
+  },{
+   
+    "english":" He doesn’t come",
+    "banan": "হি ডাজনট কাম",
+    "bangla":" সে আসে না"
+    
+  },{
+   
+    "english":" Does he come? ",
+    "banan": "ডাজ হি কাম",
+    "bangla":" সে কি আসে? "
+    
+  },{
+   
+    "english":" He sleeps",
+    "banan": "হি স্লিপস ",
+    "bangla":" সে ঘুমায় "
+    
+  },{
+   
+    "english":" He doesn’t sleep",
+    "banan": "হি ডাজনট স্লীপ",
+    "bangla":" সে ঘুমায় না "
+    
+  },{
+   
+    "english":" Does he sleep?",
+    "banan": "ডাজ হি স্লীপ",
+    "bangla":" সে কি ঘুমায়? "
+    
+  },{
+   
+    "english":" He eats ",
+    "banan": "সী ইটস",
+    "bangla":" সে খায় "
+    
+  },{
+   
+    "english":" He doesn’t eat",
+    "banan": "সী ডাজনট ইট",
+    "bangla":" সে খায়না"
+    
+  },{
+   
+    "english":" Does he eat? ",
+    "banan": "ডাজ হি ইট",
+    "bangla":" সে কি খায়? "
+    
+  }
+  
+  
+  ]

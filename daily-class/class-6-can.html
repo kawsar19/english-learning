@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Future indefinite tense</title>
+  <link rel="stylesheet" href="../must-vocabulary/style.css">
+  
+  
+    <style>
+
+@font-face{
+  font-family: roboto;
+  src: url(../assets/fonts/Roboto-Regular.ttf);
+  
+} 
+@font-face {
+  font-family: kalporosh;
+  src: url(../assets/fonts/kalpurush.ttf);
+
+}
+    *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      
+      
+    }
+    main {
+      background: lightyellow;
+      margin-bottom: 50px;
+    }
+    
+    main h1{
+      color: yellow;
+      background: slateblue;
+      text-align: center;
+      font-size: 9vw;
+      font-family: kalporosh;
+    }
+   main .line{
+     display: flex;
+     justify-content: space-between;
+     padding: 10px 10%;
+     align-items: center;
+     
+   }
+  main .line span{
+    background: slateblue;
+    display: inline-block;
+    color: #fff;
+    font-size: 30px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ main .line div{
+   background: #002752;
+   flex: 1;
+   margin-left: 10px;
+   padding: 10px;
+   padding-left: 15px;
+   border-radius: 10px;
+   text-align: left;
+   font-family: roboto;
+   font-weight: bold;
+  
+   
+ }
+ h4{
+   word-spacing: 0px ;
+   font-size: 12px;
+   
+ }
+main .line div h4:nth-child(1){
+  color:yellow;
+  font-size: 4vw;
+  font-weight: 800;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+main .line div h4:nth-child(2) {
+  color: #fff;
+  font-size: 4vw;
+  font-weight: 800;
+}
+main .line div h4:nth-child(3) {
+  color: #fff;
+  font-size: 4vw;
+  font-weight: 500;
+  font-family: kalporosh;
+  color: lime;
+  
+}
+main .text{
+  font-family: kalporosh;
+  padding: 5%;
+  font-weight: bold;
+  color: green;
+  text-align: center;
+  background: #fff;
+  font-size: 4vw !important ;
+ 
+}
+  </style>
+</head>
+
+<body>
+  <div class="loader"></div>
+  <div class="top">
+    <img src="../assets/images/arrow-back.png" onclick="history.back()" alt="back image ">
+    <p class="length">0</p>
+  </div>
+  
+   
+  <main id="main">
+        <h1>Can/ can not এর ব্যবহার </h1>
+        <p class="text">
+    
+         <b> কোন কিছু পারা বুঝাতে, সক্ষমতা বুঝাতে বা অনুমতি দেয়া বা নেয়া বুঝাতে can ব্যবহার করা হয়
+    
+         <br>
+         <br>
+
+          <span> <mark>Can</mark> অর্থ পারা</span><br>
+          
+                    <span> <mark>Can not</mark> অর্থ না পারা</span><br>
+                    
+     <span> <mark>Can not ==</mark>can’t </span>
+    
+        </p>
+    
+        <div class="line">
+          <span>+</span>
+          <div class="">
+            <h4>Sub + can+ v1 + obj </h4>
+            <h4> I can eat mango. </h4>
+            <h4> আমি আম খেতে পারি। </h4>
+          </div>
+        </div>
+        <div class="line">
+          <span>-</span>
+          <div class="">
+                    <h4>Sub + can not+ v1 + obj </h4>
+                    <h4> I can not eat mango. </h4>
+                        <h4> আমি আম খেতে পারি না। </h4>
+          </div>
+        </div>
+        <div class="line">
+          <span>?</span>
+          <div class="">
+            <h4>Can/ can not +sub + v1 + obj</h4>
+                        <h4>  Can i eat mango? </h4>
+                     <h4> আমি কি আম খেতে পারি?  </h4>
+          </div>
+        </div>
+    
+      </main>
+  <script>
+    const loader = document.querySelector('.loader')
+    const main=document.getElementById('main')
+    main.style.display='none'
+
+    fetch('json/class-6-can.json')
+      .then(res => res.json())
+      .then(data =>
+      {
+        document.querySelector('.length').innerHTML = 'Total ' +data.length
+        for (item of data) {
+          
+         
+          const div = document.createElement('div')
+
+          div.innerHTML = `  <div class="box"> 
+
+      <p  class="comic tooltip">${item.english}
+            <span class="tooltiptext hind">${item.banan}</span>
+      </p>
+
+
+      
+      
+      <p class="kalporosh bangla" >${item.bangla}</p>
+    </div>`
+          loader.style.display = 'none'
+          document.body.appendChild(div)
+          main.style.display='block'
+
+
+        }
+
+      })
+  </script>
+</body>
+
+</html>

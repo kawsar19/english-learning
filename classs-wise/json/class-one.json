@@ -1,0 +1,295 @@
+[{
+   
+    "english":" I go ",
+    "banan": "আই গো",
+    "bangla":" আমি যাই"
+    
+  },{
+   
+    "english":" I come ",
+    "banan": "আই কাম ",
+    "bangla":" আমি আসি"
+    
+  },{
+   
+    "english":" I sleep",
+    "banan": "আই স্লিপ",
+    "bangla":" আমি ঘুমাই"
+    
+  },{
+   
+    "english":" I use",
+    "banan": "আই ইউজ",
+    "bangla":" আমি ব্যবহার করি"
+    
+  },{
+   
+    "english":" I play",
+    "banan": "আই প্লে",
+    "bangla":" আমি খেলি"
+    
+  },{
+   
+    "english":" We go ",
+    "banan": "উই গো",
+    "bangla":" আমরা যাই "
+    
+  },{
+   
+    "english":" We come",
+    "banan": "উই কাম ",
+    "bangla":" আমরা আসি"
+    
+  },{
+   
+    "english":" we sleep",
+    "banan": "উই স্লিপ",
+    "bangla":" আমরা ঘুমাই"
+    
+  },{
+   
+    "english":" We use",
+    "banan": "উই ইউজ",
+    "bangla":" আমরা ব্যবহার করি"
+    
+  },{
+   
+    "english":" we play",
+    "banan": "উই প্লে",
+    "bangla":" আমরা খেলি"
+    
+  },{
+   
+    "english":" You go",
+    "banan": "ইউ গো",
+    "bangla":" তুমি যাও"
+    
+  },{
+   
+    "english":" you come",
+    "banan": "ইউ কাম ",
+    "bangla":" তুমি আসো"
+    
+  },{
+   
+    "english":" You sleep",
+    "banan": "ইউ স্লিপ",
+    "bangla":" তুমি ঘুমাও"
+    
+  },{
+   
+    "english":" you use",
+    "banan": "ইউ ইউজ",
+    "bangla":" তুমি ব্যবহার করো"
+    
+  },{
+   
+    "english":" You play",
+    "banan": "ইউ প্লে",
+    "bangla":" তুমি খেলো"
+    
+  },{
+   
+    "english":" you go",
+    "banan": "ইউ গো",
+    "bangla":" তোমরা যাও"
+    
+  },{
+   
+    "english":" you come",
+    "banan": "ইউ কাম",
+    "bangla":" তোমরা আসো"
+    
+  },{
+   
+    "english":" you sleep",
+    "banan": "ইউ স্লিপ",
+    "bangla":" তোমরা ঘুমাও"
+    
+  },{
+   
+    "english":" You play",
+    "banan": "ইউ প্লে",
+    "bangla":" তোমরা খেলো"
+    
+  },{
+   
+    "english":" He goes",
+    "banan": "হি গৌস",
+    "bangla":" সে যায়"
+    
+  },{
+   
+    "english":" He comes",
+    "banan": "হি কামস",
+    "bangla":" সে আসে"
+    
+  },{
+   
+    "english":" He sleeps",
+    "banan": "হি স্লিপস",
+    "bangla":" সে ঘুমায়"
+    
+  },{
+   
+    "english":" He uses",
+    "banan": "হি ইউজেস",
+    "bangla":" সে ব্যবহার করে"
+    
+  },{
+   
+    "english":" He plays",
+    "banan": "হি প্লেস",
+    "bangla":" সে খেলে"
+    
+  },{
+   
+    "english":" she goes",
+    "banan": "শী গৌস",
+    "bangla":" সে যায়"
+    
+  },{
+   
+    "english":" she comes",
+    "banan": "শী কামস",
+    "bangla":" সে আসে"
+    
+  },{
+   
+    "english":" she sleeps",
+    "banan": "শী স্লিপস",
+    "bangla":" সে ঘুমায়"
+    
+  },{
+   
+    "english":" she uses",
+    "banan": "শী ইউজেস",
+    "bangla":" সে ব্যবহার করে"
+    
+  },{
+   
+    "english":" she plays",
+    "banan": "শী প্লেস",
+    "bangla":" সে খেলে"
+    
+  },{
+   
+    "english":" they go ",
+    "banan": "দে গো",
+    "bangla":" তারা যায়"
+    
+  },{
+   
+    "english":" they come",
+    "banan": "দে কাম",
+    "bangla":" তারা আসে"
+    
+  },{
+   
+    "english":" they sleep",
+    "banan": "দে স্লিপ",
+    "bangla":" তারা ঘুমায়"
+    
+  },{
+   
+    "english":" they use",
+    "banan": "দে ইউজ ",
+    "bangla":" তারা ব্যবহার করে"
+    
+  },{
+   
+    "english":" They play",
+    "banan": "দে প্লে",
+    "bangla":" তারা খেলে"
+    
+  },{
+   
+    "english":" shakib goes",
+    "banan": " শাকিব গৌস",
+    "bangla":" শাকিব যায়"
+    
+  },{
+   
+    "english":" shakib comes",
+    "banan": "শাকিব কামস",
+    "bangla":" শাকিব আসে"
+    
+  },{
+   
+    "english":" shakib sleeps",
+    "banan": "শাকিব স্লিপস",
+    "bangla":" শাকিব ঘুমায়"
+    
+  },{
+   
+    "english":" shakib uses",
+    "banan": "শাকিব ইউজেস",
+    "bangla":" শাকিব ব্যবহার করে"
+    
+  },{
+   
+    "english":" shakib plays ",
+    "banan": "শাকিব প্লেস",
+    "bangla":" শাকিব খেলে"
+    
+  },{
+   
+    "english":" Rakib goes",
+    "banan": "রাকিব গৌস",
+    "bangla":" রাকিব যায়"
+    
+  },{
+   
+    "english":" Rakib comes",
+    "banan": "রাকিব কামস",
+    "bangla":" রাকিব আসে"
+    
+  },{
+   
+    "english":" Rakib sleeps",
+    "banan": "রাকিব স্লিপস",
+    "bangla":" রাকিব ঘুমায়"
+    
+  },{
+   
+    "english":" Rakib uses",
+    "banan": "রাকিব ইউজেস",
+    "bangla":" রাকিব ব্যবহার করে"
+    
+  },{
+   
+    "english":" Rakib plays",
+    "banan": "রাকিব প্লেস",
+    "bangla":" রাকিব খেলে"
+    
+  },{
+   
+    "english":" Rima goes",
+    "banan": "রিমা গৌস",
+    "bangla":" রিমা যায়"
+    
+  },{
+   
+    "english":" Rima comes",
+    "banan": "রিমা কামস",
+    "bangla":" রিমা আসে"
+    
+  },{
+   
+    "english":" Rima sleeps",
+    "banan": "রিমা স্লিপস",
+    "bangla":" রিমা ঘুমায়"
+    
+  },{
+   
+    "english":" Rima uses",
+    "banan": "রিমা ইউজেস",
+    "bangla":" রিমা ব্যবহার করে"
+    
+  },{
+   
+    "english":" Rima plays",
+    "banan": "রিমা প্লেস",
+    "bangla":" রিমা খেলে"
+    
+  }]

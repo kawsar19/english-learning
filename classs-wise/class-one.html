@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Class one</title>
+  <link rel="stylesheet" href="../must-vocabulary/style.css">
+</head>
+
+<body>
+  <div class="loader"></div>
+  <div class="top">
+    <img src="../assets/images/arrow-back.png" onclick="history.back()" alt="back image ">
+    <p class="length">0</p>
+  </div>
+  <script>
+    const loader = document.querySelector('.loader')
+
+    fetch('json/class-one.json')
+      .then(res => res.json())
+      .then(data =>
+      {
+        document.querySelector('.length').innerHTML = data.length + ' class 1'
+        for (item of data) {
+          const div = document.createElement('div')
+
+          div.innerHTML = `  <div class="box"> 
+
+      <p  class="comic tooltip">${item.english}
+            <span class="tooltiptext hind">${item.banan}</span>
+      </p>
+
+
+      
+      
+      <p class="kalporosh bangla" >${item.bangla}</p>
+    </div>`
+          loader.style.display = 'none'
+          document.body.appendChild(div)
+
+
+        }
+
+      })
+  </script>
+</body>
+
+</html>

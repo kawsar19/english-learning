@@ -1,0 +1,244 @@
+[{
+   
+    "english":" I am going",
+    "banan": "আই এম গোইং",
+    "bangla":" আমি যাইতেছি"
+    
+  },{
+   
+    "english":" I am coming",
+    "banan": "আই এম কামিং",
+    "bangla":" আমি আসতেছি"
+    
+  },{
+   
+    "english":" I am eating",
+    "banan": "আই এম ইটিং",
+    "bangla":" আমি খাইতেছি"
+    
+  },{
+   
+    "english":" I am  sleeping",
+    "banan": "আই এম স্লিপিং",
+    "bangla":" আমি ঘুমাইতেছি"
+    
+  },{
+   
+    "english":" I am using",
+    "banan": "আই এম ইউজিং",
+    "bangla":" আমি ব্যবহার করতেছি"
+    
+  },{
+   
+    "english":" We are going",
+    "banan": "উই আর গোইং",
+    "bangla":" আমরা যাইতেছি"
+    
+  },{
+   
+    "english":" We are coming ",
+    "banan": "উই আর কামিং",
+    "bangla":" আমরা আসতেছি"
+    
+  },{
+   
+    "english":" We are eating ",
+    "banan": "উই আর ইটিং",
+    "bangla":" আমরা খাইতেছি"
+    
+  },{
+   
+    "english":" We are sleeping ",
+    "banan": "উই আর স্লিপিং",
+    "bangla":" আমরা ঘুমাইতেছি"
+    
+  },{
+   
+    "english":" We are using",
+    "banan": "উই আর ইউজিং",
+    "bangla":" আমরা ব্যবহার করতেছি"
+    
+  },{
+   
+    "english":" He is going ",
+    "banan": "হি ইজ গোইং",
+    "bangla":" সে যাইতেছে"
+    
+  },{
+   
+    "english":" He is coming",
+    "banan": "হি ইজ কামিং",
+    "bangla":" সে আসতেছে"
+    
+  },{
+   
+    "english":" He is eating",
+    "banan": "হি ইজ ইটিং",
+    "bangla":" সে খাইতেছে"
+    
+  },{
+   
+    "english":" He is sleeping ",
+    "banan": "হি ইজ স্লিপিং",
+    "bangla":" সে খাইতেছে"
+    
+  },{
+   
+    "english":" He is using",
+    "banan": "হি ইজ ইউজিং",
+    "bangla":" সে ব্যবহার করতেছে"
+    
+  },{
+   
+    "english":" She is going",
+    "banan": "সি ইজ গোইং",
+    "bangla":" সে যাইতেছে "
+    
+  },{
+   
+    "english":" She is comming",
+    "banan": "সি ইজ কামিং ",
+    "bangla":" সে আসতেছে"
+    
+  },
+{
+   
+    "english":" She is eating",
+    "banan": "সি ইজ ইটিং",
+    "bangla":" সে খাইতেছে"
+    
+  },{
+   
+    "english":" She is sleeping ",
+    "banan": "সি ইজ স্লিপীং",
+    "bangla":" সে ঘুমাইতেছে"
+    
+  },{
+   
+    "english":" She is using",
+    "banan": "সি ইজ ইউজিং",
+    "bangla":" সে ব্যবহার করতেছে"
+    
+  },{
+   
+    "english":" They are going",
+    "banan": "দে আর গোইং",
+    "bangla":" তারা যাইতেছে"
+    
+  },{
+   
+    "english":" They are coming",
+    "banan": "দে আর কামিং",
+    "bangla":" তারা আসতেছেড়"
+    
+  },{
+   
+    "english":" They are eating",
+    "banan": "দে আর ইটিং",
+    "bangla":" তারা খাইতেছে"
+    
+  },{
+   
+    "english":" They are sleeping",
+    "banan": "দে আর স্লিপিং",
+    "bangla":" তারা খাইতেছে"
+    
+  },{
+   
+    "english":" They are using",
+    "banan": "দে আর ইউজিং",
+    "bangla":" তারা ব্যবহার করতেছে"
+    
+  },{
+   
+    "english":" You are going",
+    "banan": "ইউ আর গোইং",
+    "bangla":" তুমি যাইতেছো"
+    
+  },
+  {
+   
+    "english":" You are coming ",
+    "banan": "ইউ আর কামিং",
+    "bangla":" তুমি আসতেছো"
+    
+  },{
+   
+    "english":" You are eating",
+    "banan": "ইউ আর ইটিং",
+    "bangla":" তুমি খাইতেছো"
+    
+  },{
+   
+    "english":" You are sleeping ",
+    "banan": "ইউ আর স্লিপিং",
+    "bangla":" তুমি ঘুমাইতেছো"
+    
+  },{
+   
+    "english":" You are helping ",
+    "banan": "ইউ আর হেল্পিং",
+    "bangla":" তুমি সাহায্য করতেছো"
+    
+  },{
+   
+    "english":" You are going",
+    "banan": "ইউ আর গোইং",
+    "bangla":" তোমরা যাইতেছো"
+    
+  },{
+   
+    "english":" You are coming",
+    "banan": "ইউ আর কামিং",
+    "bangla":" তোমরা আসতেছো"
+    
+  },{
+   
+    "english":" You are eating",
+    "banan": "ইউ আর ইটিং",
+    "bangla":" তোমরা খাইতেছো"
+    
+  },{
+   
+    "english":" You are sleeping ",
+    "banan": "ইউ আর স্লিপিং",
+    "bangla":" তোমরা ঘুমাইতেছো"
+    
+  },{
+   
+    "english":" You are helping ",
+    "banan": "ইউ আর হেল্পিং",
+    "bangla":" তোমরা সাহায্য করতেছো"
+    
+  },{
+   
+    "english":" Rakib is helping ",
+    "banan": "রাকিব ইজ হেল্পিং",
+    "bangla":" রাকিব সাহায্য করতেছে"
+    
+  },{
+   
+    "english":" Rakib is going",
+    "banan": "রাকিব ইজ গোইং",
+    "bangla":" রাকিব যাইতেছে"
+    
+  },{
+   
+    "english":" Rakib is coming ",
+    "banan": "রাকিব ইজ কামিং",
+    "bangla":" রাকিব আসতেছে"
+    
+  },{
+   
+    "english":" Rakib is eating",
+    "banan": "রাকিব ইজ ইটিং",
+    "bangla":" রাকিব খাইতেছে"
+    
+  },{
+   
+    "english":" Rakib is sleeping ",
+    "banan": "রাকিব ইজ স্লিপিং",
+    "bangla":" রাকিব ঘুমাইতেছে"
+    
+  }
+  ]

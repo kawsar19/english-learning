@@ -1,0 +1,496 @@
+[
+  {
+   
+    "english":" i will go",
+    "banan": "আই উইল গো",
+    "bangla":" আমি যাব।"
+    
+  },{
+   
+    "english":" I will come",
+    "banan": "আই উইল কাম",
+    "bangla":" আমি আসব"
+    
+  },{
+   
+    "english":" I will eat",
+    "banan": "আই উইল ইট",
+    "bangla":" আমি খাব"
+    
+  },{
+   
+    "english":" I will sleep",
+    "banan": "আই উইল স্লীপ",
+    "bangla":" আমি ঘুমাব"
+    
+  },{
+   
+    "english":" I will use",
+    "banan": "আই উইল ইউস",
+    "bangla":" আমি ব্যবহার করবো"
+    
+  },{
+   
+    "english":" I will help",
+    "banan": "আই উইল হেল্প",
+    "bangla":" আমি সাহায্য করব"
+    
+  },{
+   
+    "english":" I will start",
+    "banan": "আই উইল স্টার্ট",
+    "bangla":" আমি শুরু করব"
+    
+  },{
+   
+    "english":" I will play",
+    "banan": "আই উইল প্লে",
+    "bangla":" আমি খেলব"
+    
+  },{
+   
+    "english":" I will love",
+    "banan": "আই উইল লাভ",
+    "bangla":" আমি ভালোবাসবো"
+    
+  },{
+   
+    "english":" We will go",
+    "banan": "উই উইল গো",
+    "bangla":" আমরা যাব"
+    
+  },{
+   
+    "english":" We will come",
+    "banan": " উই উইল কাম",
+    "bangla":" আমরা আসবো"
+    
+  },{
+   
+    "english":" We will eat",
+    "banan": "উই উইল ইট",
+    "bangla":" আমরা খাব"
+    
+  },{
+   
+    "english":" We will sleep",
+    "banan": "উই উইল স্লীপ",
+    "bangla":" আমরা ঘুমাব"
+    
+  },{
+   
+    "english":" we will use",
+    "banan": "উই উইল ইউস",
+    "bangla":" আমরা ব্যবহার করব"
+    
+  },{
+   
+    "english":" we will help",
+    "banan": "উই উইল হেল্প",
+    "bangla":" আমরা সাহায্য করব"
+    
+  },{
+   
+    "english":" we will start",
+    "banan": "উই উইল স্টার্ট",
+    "bangla":" আমরা শুরু করব"
+    
+  },{
+   
+    "english":" we will play",
+    "banan": "উই উইল প্লে",
+    "bangla":" আমরা খেলব"
+    
+  },{
+   
+    "english":" We will love",
+    "banan": "উই উইল লাভ",
+    "bangla":" আমরা ভালো বাসব"
+    
+  },{
+   
+    "english":" He will go",
+    "banan": "হি উইল গো",
+    "bangla":" সে যাবে (ছেলে)"
+    
+  },{
+   
+    "english":" He  come",
+    "banan": "হি উইল কাম",
+    "bangla":" সে আসবে"
+    
+  },{
+   
+    "english":" He will eat",
+    "banan": "হি উইল ইট",
+    "bangla":" সে খাবে"
+    
+  },{
+   
+    "english":"He will sleep ",
+    "banan": "হি উইল স্লিপ",
+    "bangla":" সে ঘুমাবে"
+    
+  },{
+   
+    "english":" He will use",
+    "banan": "হি উইল ইউজ",
+    "bangla":" সে ব্যবহার করবে"
+    
+  },{
+   
+    "english":" He will help",
+    "banan": "হি উইল হেল্প",
+    "bangla":" সে সাহায্য করবে"
+    
+  },{
+   
+    "english":" He will start",
+    "banan": "হি উইল স্টার্ট",
+    "bangla":" সে শুরু করবে"
+    
+  },{
+   
+    "english":" He will play",
+    "banan": "হি উইল প্লে",
+    "bangla":" সে খেলবে"
+    
+  },{
+   
+    "english":" He will love",
+    "banan": "হি উইল লাভ ",
+    "bangla":" সে ভালোবাসবে"
+    
+  },
+  {
+   
+    "english":" He will come",
+    "banan": "হি উইল কাম",
+    "bangla":" সে আসবে"
+    
+  },{
+   
+    "english":" He will eat",
+    "banan": "হি উইল ইট",
+    "bangla":" সে খাবে"
+    
+  },{
+   
+    "english":" He will sleep ",
+    "banan": "হি উইল স্লিপ",
+    "bangla":" সে ঘুমাবে"
+    
+  },{
+   
+    "english":" He will use",
+    "banan": "হি উইল ইউজ",
+    "bangla":" সে ব্যবহার করবে"
+    
+  },{
+   
+    "english":" He will help",
+    "banan": "হি উইল হেল্প",
+    "bangla":" সে সাহায্য করবে"
+    
+  },{
+   
+    "english":" He will start",
+    "banan": "হি উইল স্টার্ট",
+    "bangla":" সে শুরু করবে"
+    
+  },{
+   
+    "english":" He will play",
+    "banan": "হি উইল প্লে",
+    "bangla":" সে খেলবে"
+    
+  },{
+   
+    "english":" He will love",
+    "banan": "হি উইল লাভ ",
+    "bangla":" সে ভালোবাসবে"
+    
+  },
+
+
+
+
+{
+   
+    "english":" She will go",
+    "banan": "সি উইল গো",
+    "bangla":" সে যাবে (মেয়ে)"
+    
+  },{
+   
+    "english":" She will come",
+    "banan": "সি উইল কাম",
+    "bangla":" সে আসবে"
+    
+  },{
+   
+    "english":" She will eat",
+    "banan": "সি উইল ইট",
+    "bangla":" সে খাবে"
+    
+  },{
+   
+    "english":" She will sleep",
+    "banan": "সি উইল স্লিপ",
+    "bangla":" সে ঘুমাবে"
+    
+  },{
+   
+    "english":" She will use ",
+    "banan": "সি উইল ইউস ",
+    "bangla":" সে ব্যবহার করবে"
+    
+  },{
+   
+    "english":" She will help",
+    "banan": "সি ইউল হেল্প ",
+    "bangla":" সে সাহায্য  করবে"
+    
+  },{
+   
+    "english":" She will start",
+    "banan": "সি উইল স্টার্ট",
+    "bangla":" সে সাহায্য  করবে"
+    
+  },{
+   
+    "english":" She will play",
+    "banan": "সি উইল প্লে",
+    "bangla":" সে খেলবে"
+    
+  },{
+   
+    "english":" She will love",
+    "banan": "সি উইল লাভ",
+    "bangla":" সে ভালোবাসবে"
+    
+  },{
+   
+    "english":" They will go ",
+    "banan": "দে উইল গো ",
+    "bangla":" তারা যাবে"
+    
+  },{
+   
+    "english":" They will come",
+    "banan": "দে উইল কাম",
+    "bangla":" তারা আসবে"
+    
+  },{
+   
+    "english":" They will come",
+    "banan": "দে উইল কাম",
+    "bangla":" তারা আসবে"
+    
+  },{
+   
+    "english":" They will eat",
+    "banan": "দে উইল ইট",
+    "bangla":" তারা খাবে"
+    
+  },{
+   
+    "english":" They will sleep",
+    "banan": "দে উইল স্লিপ",
+    "bangla":" তারা ঘুমাবে"
+    
+  },{
+   
+    "english":" They will use",
+    "banan": "দে উইল ইউজ",
+    "bangla":" তারা ব্যবহার করবে"
+    
+  },{
+   
+    "english":" They will help",
+    "banan": "দে উইল হেল্প",
+    "bangla":" তারা সাহায্য করবে"
+    
+  },{
+   
+    "english":" They will start",
+    "banan": "দে উইল স্টার্ট",
+    "bangla":" তারা শুরু করবে"
+    
+  },{
+   
+    "english":" They will play",
+    "banan": "দে উইল প্লে",
+    "bangla":" তারা খেলবে"
+    
+  },{
+   
+    "english":" They will love",
+    "banan": "দে উইল লাভ",
+    "bangla":" তারা ভালোবাসবে"
+    
+  },{
+   
+    "english":" You will go",
+    "banan": "ইউ উইল গো",
+    "bangla":" তুমি যাবে"
+    
+  },{
+   
+    "english":" You will come",
+    "banan": "ইউ উইল কাম",
+    "bangla":" তুমি আসবে"
+    
+  },{
+   
+    "english":" You will eat",
+    "banan": "ইউ উইল ইট",
+    "bangla":" তুমি খাবে"
+    
+  },{
+   
+    "english":" You will sleep",
+    "banan": "ইউ উইল স্লিপ",
+    "bangla":" তুমি ঘুমাবে"
+    
+  },{
+   
+    "english":" You will use",
+    "banan": "ইউ উইল ইউজ",
+    "bangla":" তুমি ব্যবহার করবে"
+    
+  },{
+   
+    "english":" You will help",
+    "banan": "ইউ উইল হেল্প",
+    "bangla":" তুমি সাহায্য করবে"
+    
+  },{
+   
+    "english":" You will start",
+    "banan": "ইউ উইল স্টার্ট",
+    "bangla":" তুমি শুরু করবে"
+    
+  },{
+   
+    "english":" You will play",
+    "banan": "ইউ উইল প্লে",
+    "bangla":" তুমি খেলবে"
+    
+  },{
+   
+    "english":" You will love",
+    "banan": "ইউ উই লাভ",
+    "bangla":" তুমি ভালবাসবে"
+    
+  },{
+   
+    "english":" You will go",
+    "banan": "ইউ উইল গো",
+    "bangla":" তোমরা যাবে"
+    
+  },{
+   
+    "english":" You will come",
+    "banan": "ইউ উইল কাম",
+    "bangla":" তোমরা আসবে"
+    
+  },{
+   
+    "english":" You will eat",
+    "banan": "ইউ উইল ইট",
+    "bangla":" তোমরা খাবে"
+    
+  },{
+   
+    "english":" You will sleep",
+    "banan": "ইউ উইল স্লিপ",
+    "bangla":" তোমরা ঘুমাবে"
+    
+  },{
+   
+    "english":" You will use",
+    "banan": "ইউ উইল ইউজ",
+    "bangla":" তোমরা ব্যবহার করবে"
+    
+  },{
+   
+    "english":" You will help",
+    "banan": "ইউ উইল হেল্প",
+    "bangla":" তোমরা সাহায্য করবে"
+    
+  },{
+   
+    "english":" You will start",
+    "banan": "ইউ উইল স্টার্ট",
+    "bangla":" তোমরা শুরু করবে"
+    
+  },{
+   
+    "english":" You will play",
+    "banan": "ইউ উইল প্লে ",
+    "bangla":" তোমরা খেলবে"
+    
+  },{
+   
+    "english":" You will love",
+    "banan": "ইউ উইল লাভ ",
+    "bangla":" তোমরা ভালোবাসবে"
+    
+  },{
+   
+    "english":" Rakib will go",
+    "banan": "রাকিব উইল গো",
+    "bangla":" রাকিব যাবে"
+    
+  },{
+   
+    "english":" Rakib will.come",
+    "banan": "রাকিব উইল কাম",
+    "bangla":" রাকিব আসবে"
+    
+  },{
+   
+    "english":" Rakib will eat",
+    "banan": "রাকিব উইল ইট",
+    "bangla":" রাকিব খাবে"
+    
+  },{
+   
+    "english":" Rakib will sleep",
+    "banan": "রাকিব উইল স্লীপ",
+    "bangla":" রাকিব ঘুমাবে"
+    
+  },{
+   
+    "english":" Rakib will use",
+    "banan": "রাকিব উইল ইউজ",
+    "bangla":" রাকিব ব্যবহার করবে"
+    
+  },{
+   
+    "english":" Rakib will help",
+    "banan": "রাকিব ইউল হেল্প",
+    "bangla":" রাকিব সাহায্য করবে"
+    
+  },{
+   
+    "english":" Rakib will start",
+    "banan": "রাকিব ইউল স্টার্ট",
+    "bangla":" রাকিব শুরু করবে"
+    
+  },{
+   
+    "english":" Rakib will play",
+    "banan": "রাকিব উইল প্লে",
+    "bangla":" রাকিব খেলবে"
+    
+  },{
+   
+    "english":" Rakib will love",
+    "banan": "রাকিব উইল লাভ",
+    "bangla":" রাকিব ভালোবাসবে"
+    
+  }
+  
+]

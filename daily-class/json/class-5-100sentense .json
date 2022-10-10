@@ -1,0 +1,213 @@
+[
+  {
+   
+    "english":" I",
+    "banan": "আই ",
+    "bangla":" আমি"
+    
+  },{
+   
+    "english":" go",
+    "banan": "গো",
+    "bangla":" যাওয়া"
+    
+  },{
+   
+    "english":" I go",
+    "banan": "আই গো",
+    "bangla":" আমি যাই"
+    
+  },{
+   
+    "english":" I don't go",
+    "banan": "আই ডন্ট গো",
+    "bangla":" আমি যাইনা"
+    
+  },{
+   
+    "english":" Do i go? ",
+    "banan": "ডু আই গো? ",
+    "bangla":" আমি কি যাই? "
+    
+  },{
+   
+    "english":" Do you go? ",
+    "banan": "ডু ইউ গো ",
+    "bangla":" তুমি কি যাও? "
+    
+  },{
+   
+    "english":" Where do you go? ",
+    "banan": "হোয়ার ডু ইউ গো ? ",
+    "bangla":" তুমি কেন যাও ? "
+    
+  },{
+   
+    "english":" when do you go? ",
+    "banan": "হয়েন ডু ইউ গো? ",
+    "bangla":" তুমি কখন যাও ? "
+    
+  },{
+   
+    "english":" Why do you go? ",
+    "banan": "হোয়াই ডু ইউ গো",
+    "bangla":" তুমি কেন যাও?"
+    
+  },{
+   
+    "english":" With whom do you go?",
+    "banan": "উইথ হোম ডু ইউ গো",
+    "bangla":" তুমি কার সাথে যাও?"
+    
+  },{
+   
+    "english":" I am going",
+    "banan": "আই এম গোয়িং",
+    "bangla":" আমি যাইতেছি"
+    
+  },{
+   
+    "english":" I am not going",
+    "banan": "আই এম নট গোইং",
+    "bangla":" আমি যাইতেছি না"
+    
+  },{
+   
+    "english":" Am I going?",
+    "banan": "এম আই গোয়িং",
+    "bangla":" আমি কি যাইতেছি?"
+    
+  },{
+   
+    "english":" I have gone",
+    "banan": "আই হ্যাভ গন",
+    "bangla":" আমি গিয়েছি"
+    
+  },{
+   
+    "english":" I have not gone",
+    "banan": "আই হ্যাভ নট গন",
+    "bangla":" আমি যাইনি"
+    
+  },{
+   
+    "english":" Have I gone?",
+    "banan": "হেভ আই গন",
+    "bangla":" আমি কি গিয়েছি?"
+    
+  },{
+   
+    "english":" I have been going for 2 days",
+    "banan": "আই হ্যাভ বিন গোয়িং ফর টু ডেজ",
+    "bangla":" আমি দুই দিন ধরে যাইতেছি।"
+    
+  },{
+   
+    "english":" I went",
+    "banan": "আই ওয়েন্ট",
+    "bangla":" আমি গিয়েছিলাম"
+    
+  },{
+   
+    "english":" I was going",
+    "banan": "আই ওয়াজ গোয়িং",
+    "bangla":" আমি যাইতেছিলাম"
+    
+  },{
+   
+    "english":" I will go",
+    "banan": "আই উইল গো",
+    "bangla":" আমি যাব"
+    
+  },{
+   
+    "english":" I will be going",
+    "banan": "আই উইল বি গোয়িং",
+    "bangla":" আমি যাইতে থাকবো"
+    
+  },{
+   
+    "english":" I can go",
+    "banan": "আই ক্যান গো",
+    "bangla":" আমি যেতে পারি"
+    
+  },{
+   
+    "english":" I can not go",
+    "banan": "আই ক্যান নট গো",
+    "bangla":" আমি যেতে পারি না"
+    
+  },{
+   
+    "english":" Can I go?",
+    "banan": "ক্যান আই গো?",
+    "bangla":" আমি কি যেতে পারি ?"
+    
+  },{
+   
+    "english":" I should go",
+    "banan": "আই শুড গো",
+    "bangla":" আমার যাওয়া উচিত"
+    
+  },{
+   
+    "english":" I should not go",
+    "banan": "আই শুড নট গো",
+    "bangla":" আমার যাওয়া উচিত না"
+    
+  },{
+   
+    "english":" Should I go?",
+    "banan": "সোড আই গো",
+    "bangla":" আমার কি যাওয়া উচিত?"
+    
+  },{
+   
+    "english":" I must go",
+    "banan": "আই মাস্ট গো",
+    "bangla":" আমি অবশ্যই যাবো"
+    
+  },{
+   
+    "english":" I must not go",
+    "banan": "আই মাস্ট নট গো",
+    "bangla":" আমি অবশ্যই যাবো না"
+    
+  },{
+   
+    "english":" I have to go",
+    "banan": "আই হ্যাভ টু গো",
+    "bangla":" আমাকে যেতে হবে"
+    
+  },{
+   
+    "english":" I need to go",
+    "banan": "আই নিড টু গো",
+    "bangla":" আমার যাওয়া দরকার"
+    
+  },{
+   
+    "english":" I could go",
+    "banan": "আই কুড গো",
+    "bangla":" আমি যেতে পারতাম"
+    
+  },{
+   
+    "english":" I used to go",
+    "banan": "আই উইস টু গো",
+    "bangla":" আমি যাইতাম (অতীতকালের অভ্যাস)"
+    
+  },{
+   
+    "english":" I may go",
+    "banan": "আই মে গো",
+    "bangla":" আমি যেতে পারি (সম্ভাবনা)"
+    
+  },{
+   
+    "english":" May I go?",
+    "banan": "মে আই গো",
+    "bangla":" আমি কি যেতে পারি? (অনুমতি)"
+    
+  }
+  ]
